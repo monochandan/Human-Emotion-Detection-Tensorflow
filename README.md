@@ -70,6 +70,10 @@ This project explores multiple convolutional architectures for detecting human e
     <td align="center">Loss: 60 epochs</td>
   </tr>
 </table>
+
+[Transfer Learning With EfficientNet](https://arxiv.org/abs/1905.11946)
+
+[ViT](https://arxiv.org/pdf/2010.11929)
   
 
 
